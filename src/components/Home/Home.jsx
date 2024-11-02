@@ -4,7 +4,7 @@ import Footer from "../Footer/Footer";
 
 export default function Home() {
   return (
-    <div className="flex flex-col items-center justify-center h-screen">
+    <div>
       <Navbar />
       <Outlet />
       <Footer />
