@@ -12,6 +12,9 @@ export default function Navbar() {
             <Link to={"/users"}>Users</Link>
           </li>
           <li>
+            <Link to={"/posts"}>Posts</Link>
+          </li>
+          <li>
             <Link to={"/about"}>About</Link>
           </li>
           <li>
